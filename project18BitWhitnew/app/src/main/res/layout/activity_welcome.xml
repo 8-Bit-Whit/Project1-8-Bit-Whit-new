@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".WelcomeActivity">
-    <!--This is the layout file for the login activity. It contains the UI elements for the login screen.-->
+  
     <TextView
         android:id="@+id/welcome_message"
         android:layout_width="314dp"
